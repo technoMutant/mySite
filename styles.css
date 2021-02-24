@@ -1,0 +1,70 @@
+.top-container {
+  background-color: #ffe2e2;
+  height: 21.875rem;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 4.375rem;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #8785a2;
+}
+
+.text {
+  padding-top: 2.5rem;
+}
+
+.top-container-2 {
+  margin-top: 4.375rem;
+  background-color: #8785a2;
+  height: 18.75rem;
+  position: relative;
+  z-index: 1;
+}
+
+.Koala-image {
+  height: 14.0625rem;
+}
+
+.pink-text {
+  color: #ffe2e2;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 2.5rem;
+  font-size: 1.875rem;
+}
+
+#Skills {
+  margin-top: 3.125rem;
+  height: 31.25rem;
+  background-color: #ffe2e2;
+}
+
+.purple-text {
+  color: #8785a2;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 3.125rem;
+  font-size: 1.875rem;
+}
+
+.skill-images {
+  height: 12.5rem;
+  padding: 1.25rem;
+}
+
+#Contact {
+  padding-top:3.125rem;
+  margin-top: 3.125rem;
+  height: 12.5rem;
+  background-color: #8785a2;
+}
+
+.linkedin-logo {
+  height: 4.0625rem;
+  background-color: white;
+}
